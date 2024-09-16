@@ -1,6 +1,6 @@
 ## <b>AudioSetCaps Webpage</b>
 
-This webpage template was made for [AudioSetCaps](http://richzhang.github.io/colorization/) [github](https://AudioSetCaps.github.io/webpage/).
+This webpage template was made for [AudioSetCaps](https://AudioSetCaps.github.io/) [github](https://github.com/AudioSetCaps/AudioSetCaps).
 
 
 
