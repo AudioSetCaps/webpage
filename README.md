@@ -1,6 +1,6 @@
 ## <b>AudioSetCaps Webpage</b>
 
-This webpage template was made for [AudioSetCaps](https://AudioSetCaps.github.io/) [github](https://github.com/AudioSetCaps/AudioSetCaps).
+This webpage template was made for [AudioSetCaps](https://audiosetcaps.github.io/webpage/) [github](https://github.com/AudioSetCaps/AudioSetCaps).
 
 
 
